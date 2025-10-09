@@ -39,11 +39,11 @@ project_root/
 ---
 
 ## 4. 캡처 이미지
-- `capture.png` → commit 완료 상태 화면  
+- `capture1.png` → commit 완료 상태 화면  
 - `capture2.png` → GitHub push → pull 후 VS Code 화면  
 
 예시:  
-![첫번째 캡처](doc/images/capture.png)  
+![첫번째 캡처](doc/images/capture1.png)  
 ![두번째 캡처](doc/images/capture2.png)  
 
 ---
