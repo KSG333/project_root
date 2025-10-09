@@ -43,7 +43,7 @@ project_root/
 - `capture2.png` → GitHub push → pull 후 VS Code 화면  
 
 예시:  
-![첫번째 캡처](doc/images/capture.png)  
+![첫번째 캡처](doc/images/capture1.png)  
 ![두번째 캡처](doc/images/capture2.png)  
 
 ---
